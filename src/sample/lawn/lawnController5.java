@@ -466,7 +466,7 @@ public class lawnController5 implements Initializable
                 if(tile_click_count==1 && anchorPane.getChildren().isEmpty())
                 {
                     System.out.println("clicked pane inside if");
-                    System.out.println(temp_Image.getUrl());
+                   // System.out.println(temp_Image.getUrl());
 
 //                    System.out.println(anchorPane.getChildren().isEmpty() == true);
 
